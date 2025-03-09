@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/823091410349407003/1b0759c6650949e68a90b4e753381f9c/artifacts
+end_time: 1741422258931
+entry_point_name: ''
+experiment_id: '823091410349407003'
+lifecycle_stage: active
+run_id: 1b0759c6650949e68a90b4e753381f9c
+run_name: likeable-calf-127
+run_uuid: 1b0759c6650949e68a90b4e753381f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741422258834
+status: 4
+tags: []
+user_id: ENG. Sadab Ali

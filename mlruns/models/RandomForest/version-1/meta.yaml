@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741498102035
+current_stage: None
+description: ''
+last_updated_timestamp: 1741498102035
+name: RandomForest
+run_id: 6e445fc89be244d29816b7c5d08aa5b2
+run_link: ''
+source: file:///C:/Users/alisa/OneDrive/Desktop/End%20to%20End%20MLOPs%20with%20MLFlow/mlruns/464656131688983708/6e445fc89be244d29816b7c5d08aa5b2/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/alisa/OneDrive/Desktop/End%20to%20End%20MLOPs%20with%20MLFlow/mlruns/464656131688983708/6e445fc89be244d29816b7c5d08aa5b2/artifacts/random_forest
+user_id: null
+version: 1

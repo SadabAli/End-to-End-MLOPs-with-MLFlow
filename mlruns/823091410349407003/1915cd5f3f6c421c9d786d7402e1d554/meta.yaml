@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/823091410349407003/1915cd5f3f6c421c9d786d7402e1d554/artifacts
+end_time: 1741422164915
+entry_point_name: ''
+experiment_id: '823091410349407003'
+lifecycle_stage: active
+run_id: 1915cd5f3f6c421c9d786d7402e1d554
+run_name: crawling-shad-562
+run_uuid: 1915cd5f3f6c421c9d786d7402e1d554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741422164750
+status: 4
+tags: []
+user_id: ENG. Sadab Ali
